@@ -1,3 +1,4 @@
+use database devops_demo;
 CREATE SCHEMA DEMO;
 CREATE TABLE HELLO_WORLD
 (
